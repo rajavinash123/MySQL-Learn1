@@ -9,3 +9,9 @@ GROUP BY, HAVING	✅
 ORDER BY	✅
 UPDATE Query	✅
 SQL Error Fixing	✅
+Update / Delete	✅
+Alter / Truncate	✅
+Constraints / FK	✅
+JOINs	✅
+Group By / Having	✅
+Subqueries	✅
